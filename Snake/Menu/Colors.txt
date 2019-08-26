@@ -1,0 +1,11 @@
+Colors
+Black
+Blue
+Cyan
+Gray
+Green
+Magenta
+Red
+White
+Yellow
+DarkRed

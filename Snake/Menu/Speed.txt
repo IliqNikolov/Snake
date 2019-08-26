@@ -1,0 +1,6 @@
+Select difficult
+Easy
+Normal
+Hard
+Impossible
+Asian

@@ -1,0 +1,3 @@
+Enable the Bot
+True
+False

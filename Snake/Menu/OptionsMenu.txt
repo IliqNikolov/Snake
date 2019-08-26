@@ -1,0 +1,7 @@
+Options:
+Difficult
+Deadly Walls
+Background Color
+Foreground Color
+Amount of Food
+Bot
